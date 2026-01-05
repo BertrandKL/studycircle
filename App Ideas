@@ -13,4 +13,8 @@
 9)directly see status(online/offline/in study mode) & study time today when entering a group.
 10)constant reminding notifications
 11)coins to be given for task/goals completed. Given coins can be used to exchange for decorations for user profile as well as quotes that
-can be equiped by the user.
+can be equipped by the user.
+12) ai chatbot that can be used to ask stuff
+13) use ai to analyse an optimal study time for students (kinda like pseudo taskclock am i right but ofc its just a recommendation)
+    also allow the user to turn off the recommendation if they want to cos if the user hates it it's lowkey annoying and will add friction
+
